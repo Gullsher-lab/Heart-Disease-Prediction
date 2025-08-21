@@ -9,23 +9,23 @@ The primary objective is to develop predictive models that identify patients at 
 
 1. Data Preprocessing:
 
-    Handling missing values
+     Handling missing values
 
-    Normalizing numerical features
+     Normalizing numerical features
   
-    Encoding categorical variables
+     Encoding categorical variables
 
 2. Exploratory Data Analysis (EDA):
 
-    Summary statistics
+     Summary statistics
 
-    Correlation heatmaps
+     Correlation heatmaps
   
 3. Model Training:
 
-    Logistic Regression
+     Logistic Regression
 
-    Random Forest Classifier
+     Random Forest Classifier
 
 4. Evaluation: 
     Accuracy comparison of models
